@@ -1,1 +1,3 @@
 perkenalkan nama saya adalah diandra vieri sebagai siswa SMK TI BAZMA sedang belajar Git Hub
+
+ini data di rubah dari Visual Studio Code kita
